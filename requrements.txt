@@ -20,3 +20,4 @@ six==1.17.0
 sympy==1.14.0
 torch==2.9.0
 typing_extensions==4.15.0
+pickle5==0.0.12
